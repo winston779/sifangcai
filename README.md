@@ -1,6 +1,6 @@
 # 私房菜机场官网地址
 
-最新地址：[cos.cat](https://cos.cat/ui/#/register?code=DApPwNy4)
+最新地址：[cos.cat](https://online.cos.cat/ui/#/register?code=DApPwNy4)
 
 ## 私房菜介绍
 
